@@ -1,6 +1,6 @@
 {
   "name": "slackflow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Slack bot powered through flowlytics that brings your Dialogflow analytics data into Slack",
   "main": "index.js",
   "scripts": {
