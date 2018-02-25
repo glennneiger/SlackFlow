@@ -22,9 +22,11 @@ const channelsInterval = [
     {
         channelUrl: "https://hooks.slack.com/services/YOUR/SLACK/WEBHOOK_URL",
         day: 30
-    }
+    },
+    //etc
 ];
 
+// Tokens for grabbing Dialogflow Analytics data
 const tokens = {
     "xsrf": "YOUR_XSRF_TOKEN",
     "user_agent": "YOUR_USER_AGENT",
