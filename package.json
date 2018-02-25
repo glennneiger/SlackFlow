@@ -1,0 +1,39 @@
+{
+  "name": "slackflow",
+  "version": "1.0.0",
+  "description": "A Slack bot powered through flowlytics that brings your Dialogflow analytics data into Slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshbenner851/SlackFlow.git"
+  },
+  "keywords": [
+    "slack",
+    "slack",
+    "bot",
+    "bot",
+    "dialogflow",
+    "dialogflow",
+    "analytics",
+    "dialogflow",
+    "analytics",
+    "slack",
+    "dialogflow",
+    "analytics",
+    "slack",
+    "bot"
+  ],
+  "author": "Josh Benner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshbenner851/SlackFlow/issues"
+  },
+  "homepage": "https://github.com/joshbenner851/SlackFlow#readme",
+  "dependencies": {
+    "flowlytics": "^1.0.4",
+    "request": "^2.83.0"
+  }
+}
