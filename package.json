@@ -33,7 +33,10 @@
   },
   "homepage": "https://github.com/joshbenner851/SlackFlow#readme",
   "dependencies": {
+    "csv-writer": "^1.0.0",
     "flowlytics": "^1.0.4",
+    "moment": "^2.21.0",
+    "moment-timezone": "^0.5.14",
     "request": "^2.83.0"
   }
 }
